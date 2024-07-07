@@ -1,4 +1,4 @@
-We are given a data set of size 10000 images of 10 classes to train a neural network inorder to classify the train image data set.
+We are given a data set of size 10000 images of 10 classes(CIFAR-10 dataset) to train a neural network inorder to classify the train image data set.
 
 In case of first approach I had used Vanilla CNN with some self attention layers embedded in between CNN layers in order to get dependencies on itself
 
